@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin_Footballer_HandBook</string>
+    <string name="football_clubs">Футбольные клубы</string>
+    <string name="football_teams">Футбольные сборные</string>
+    <string name="football_players">Игроки</string>
+    <string name="football_awards">Награды</string>
+</resources>
